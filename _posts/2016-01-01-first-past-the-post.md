@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: My first attempt at the Grid
-datePublished: '2016-01-01T12:58:16.109Z'
-dateModified: '2016-01-01T12:58:09.316Z'
+datePublished: '2016-01-01T13:00:18.329Z'
+dateModified: '2016-01-01T13:00:12.027Z'
 title: First Past the Post
 author: []
 sourcePath: _posts/2016-01-01-first-past-the-post.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3b012c9-6d30-47c8-ba8e-9e63652f2b6c.jpg)
 
-It has been a wait -- a long wait, but then the Grid is finally here. I chose to get going on it on this day, the 1st of January, 2016\. There, this is the first time I typed 2016\. I'll have to do that a thousand times or more or the next 365 days. 
+It has been a wait -- a long wait, but then the Grid is finally here. I chose to get going on it on this day, the 1st of January, 2016\. There, this is the first time I typed 2016\. I'll have to do that a thousand times or more for the next 365 days. 
 
 What's in store? Quite a bit remains unknown. What I do know right now it that I am in the vortex of "The Move". I head back to Bangalore shortly, bag and baggage, alone, from Madras. I then have to leave for New Delhi. For the first time I head to Delhi with the intent to stay on. I will join work mid month. 
 
